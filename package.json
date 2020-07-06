@@ -1,0 +1,21 @@
+{
+    "name": "konng",
+    "displayName": "KONNG",
+    "description": "A perfect theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feng Wei",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feng Wei-color-theme.json"
+            }
+        ]
+    }
+}
