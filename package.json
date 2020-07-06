@@ -13,7 +13,7 @@
     ],
     "contributes": {
         "themes": [{
-            "label": "Feng Wei",
+            "label": "KONNG",
             "uiTheme": "vs-dark",
             "path": "./themes/Feng Wei-color-theme.json"
         }]
