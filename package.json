@@ -4,7 +4,7 @@
     "description": "A perfect theme",
     "publisher": "OvO",
     "version": "0.1.0",
-    "icon": "icon.jpg",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -12,13 +12,11 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Feng Wei",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Feng Wei-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Feng Wei",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Feng Wei-color-theme.json"
+        }]
     },
     "repository": {
         "type": "git",
