@@ -1,20 +1,29 @@
 ## KONNG
 
-知乎同步教程：[如何自定义一个vscode主题插件](https://zhuanlan.zhihu.com/p/157288300)
+blog: [feng-w.cn](https://feng-w.cn)
+### DEMO
 
-基于 bluloco Dark Theme 3.1.1 进行优化后的一个主题
-
-### 优化内容
-
-- 终端颜色更加自然，原版的命令行体验不是很好
-- 统一将晃眼睛的蓝色改为紫罗兰色 #9400D3
-- 其他小细节的个人优化
-
-### 截屏
+![fib](https://raw.githubusercontent.com/fengwei2002/vscode-theme-KONNG/master/fib.png)
 
 更多细节可以下载后查看
 
-![DEMO](https://raw.githubusercontent.com/fengwei2002/vscode-theme-KONNG/master/cpp%E6%88%AA%E5%9B%BE.png)
+### introduction
+
+基于
+- bluloco Dark Theme
+- slime theme
+- panda theme
+进行优化后的一个主题
+
+- date: 2020-07-06 终端颜色更加自然，原版的命令行体验不是很好，对每种变量颜色做了修改
+- date: 2020-07-06 TAB 页更加显眼，方便查找
+- date: 2020-07-07 鼠标指针的颜色以及选中后的颜色更加简单
+- date: 2020-07-07 统一将有些晃眼睛的蓝色改为紫罗兰色 #9400D3
+- date: 2020-07-07 将侧边栏的 dot 颜色进行了美化
+- date: 2020-11-27 其他小细节的个人优化
+- date: 2020-11-27 背景色做了大修改 参考了 Slime theme 以及 panda theme
+- date: 2020-11-27 title bar 颜色调整为深色，更加自然
+- date: 2020-11-27 无用代码以及无用文件删除，README完善
 
 
 ### 源码
