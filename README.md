@@ -24,6 +24,8 @@ blog: [feng-w.cn](https://feng-w.cn)
 - date: 2020-11-27 背景色做了大修改 参考了 Slime theme 以及 panda theme
 - date: 2020-11-27 title bar 颜色调整为深色，更加自然
 - date: 2020-11-27 无用代码以及无用文件删除，README完善
+- date: 2020-12-08 编辑器布局颜色统一 `#1C1E26`  from horizon theme
+- date: 2020-12-08 光标相关全部优化 字符串亮黄色改为暖橙色
 
 
 ### 源码
