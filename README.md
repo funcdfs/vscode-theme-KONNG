@@ -26,6 +26,9 @@ blog: [feng-w.cn](https://feng-w.cn)
 - date: 2020-11-27 无用代码以及无用文件删除，README完善
 - date: 2020-12-08 编辑器布局颜色统一 `#1C1E26`  from horizon theme
 - date: 2020-12-08 光标相关全部优化 字符串亮黄色改为暖橙色
+- date: 2020-12-19 所有变量以及括号颜色变深一点点，不影响阅读体验，建议配合 `Rainbow Brackets` 插件使用
+- date: 2020-12-19 操作栏样式美化：`list.activeSelectionBackground": "#9400d38a",` 前景色为超级浅绿色。选中时为透明淡紫色
+- date: 2020-12-19 把活动栏的边框颜色进行了统一
 
 
 ### 源码
