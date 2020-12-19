@@ -8,8 +8,8 @@
 		"editor.foreground": "#abb2bf",
 		"editor.lineHighlightBackground": "#0a0a0a77",
 		"editor.selectionBackground": "#1c456f9c",
-		"editorLineNumber.foreground": "#636d83",
-		"editorLineNumber.activeForeground": "#ffcc00",
+		"editorLineNumber.foreground": "#636d83a4",
+		"editorLineNumber.activeForeground": "#ff00ffb0",
 		"button.background": "#9400d3b2",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#3691ff",
@@ -36,19 +36,19 @@
 		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#3691ff",
 		"badge.foreground": "#ffffff",
-		"list.activeSelectionBackground": "#9400D3b2",
+		"list.activeSelectionBackground": "#9400d38a",
 		"list.dropBackground": "#1f5392",
 		"list.hoverBackground": "#1C1E26",
 		"list.focusBackground": "#3a3e68",
 		"list.focusForeground": "#ffffff",
-		"list.inactiveSelectionBackground": "#3f4451",
+		"list.inactiveSelectionBackground": "#53e9bc38",
 		"list.highlightForeground": "#10b1fe",
 		"activityBar.foreground": "#abb2bf",
 		"activityBar.activeBorder": "#3691ff",
 		"sideBar.background": "#1C1E26",
 		"sideBar.foreground": "#abb2bf",
 		"sideBarTitle.foreground": "#abb2bf",
-		"sideBarSectionHeader.background": "#303842",
+		"sideBarSectionHeader.background": "#1C1E26",
 		"sideBarSectionHeader.foreground": "#abb2bf",
 		"editorGroup.emptyBackground": "#1C1E26",
 		"editorGroupHeader.noTabsBackground": "#1C1E26",
@@ -222,7 +222,7 @@
 			"name": "Text",
 			"scope": "comment.unused.elixir",
 			"settings": {
-				"foreground": "#abb2bf"
+				"foreground": "#b6bece"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#7a82da"
+				"foreground": "#515ccf"
 			}
 		},
 		{
@@ -331,14 +331,14 @@
 				"meta.control.flow"
 			],
 			"settings": {
-				"foreground": "#10b1fe"
+				"foreground": "#0f94d1"
 			}
 		},
 		{
 			"name": "Primitive Type",
 			"scope": "support.type.primitive",
 			"settings": {
-				"foreground": "#10b1fe"
+				"foreground": "#0f92cf"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"string meta.embedded.line.ruby"
 			],
 			"settings": {
-				"foreground": "#abb2bf"
+				"foreground": "#9da8bd"
 			}
 		},
 		{
@@ -364,7 +364,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#3fc56b"
+				"foreground": "#32a759"
 			}
 		},
 		{
@@ -397,14 +397,14 @@
 			"name": "Storage",
 			"scope": ["storage", "constant.language"],
 			"settings": {
-				"foreground": "#10b1fe"
+				"foreground": "#11a1e4"
 			}
 		},
 		{
 			"name": "Support",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#3fc56b"
+				"foreground": "#34c765"
 			}
 		},
 		{
@@ -418,28 +418,28 @@
 				"storage.type.string"
 			],
 			"settings": {
-				"foreground": "#F09483"
+				"foreground": "#e4806f"
 			}
 		},
 		{
 			"name": "Integers",
 			"scope": ["constant.numeric", "variable.other.anonymous.elixir"],
 			"settings": {
-				"foreground": "#ff78f8"
+				"foreground": "#fc60f4"
 			}
 		},
 		{
 			"name": "Floats",
 			"scope": "none",
 			"settings": {
-				"foreground": "#ff78f8"
+				"foreground": "#fa56f2"
 			}
 		},
 		{
 			"name": "Boolean",
 			"scope": "none",
 			"settings": {
-				"foreground": "#10b1fe"
+				"foreground": "#0d9fe2"
 			}
 		},
 		{
