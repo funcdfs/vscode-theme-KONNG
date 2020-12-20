@@ -3,7 +3,7 @@
     "displayName": "KONNG",
     "description": "feng-w.cn",
     "publisher": "OvO",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
