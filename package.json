@@ -3,7 +3,7 @@
     "displayName": "KONNG",
     "description": "konng.now.sh",
     "publisher": "OvO",
-    "version": "0.6.4",
+    "version": "0.6.5",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
@@ -12,11 +12,13 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "KONNG",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Feng Wei-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "KONNG",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feng Wei-color-theme.json"
+            }
+        ]
     },
     "repository": {
         "type": "git",
