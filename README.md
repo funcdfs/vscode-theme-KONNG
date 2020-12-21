@@ -30,6 +30,7 @@ blog: [feng-w.cn](https://feng-w.cn)
 - date: 2020-12-19 操作栏样式美化：`list.activeSelectionBackground": "#c553f5FD8a",` 前景色为超级浅绿色。选中时为透明淡紫色
 - date: 2020-12-19 把活动栏的边框颜色进行了统一，活动栏绿色和紫色有些不统一，紫色作为主色调
 - date: 2020-12-19 全局蓝色 #3691FF 改为 #c553f5FD
+- date: 2020-12-21 优化代码块体验
 
 
 ### 源码
