@@ -232,6 +232,7 @@
 			}
 		},
 		{
+
 			"name": "Doc Comment Keywords",
 			"scope": [
 				"comment.block.documentation variable",
@@ -243,7 +244,7 @@
 				"meta.other.type.phpdoc support class"
 			],
 			"settings": {
-				"foreground": "#7c8495"
+				"foreground": "#29f7b9"
 			}
 		},
 		{
@@ -310,7 +311,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#515ccf"
+				"foreground": "#38d1f3"
 			}
 		},
 		{
@@ -323,14 +324,14 @@
 				"meta.control.flow"
 			],
 			"settings": {
-				"foreground": "#0f94d1"
+				"foreground": "#bc5ae9"
 			}
 		},
 		{
 			"name": "Primitive Type",
 			"scope": "support.type.primitive",
 			"settings": {
-				"foreground": "#0f92cf"
+				"foreground": "#0086c4"
 			}
 		},
 		{
@@ -342,7 +343,7 @@
 				"string meta.embedded.line.ruby"
 			],
 			"settings": {
-				"foreground": "#9da8bd"
+				"foreground": "#f77e7e"
 			}
 		},
 		{
@@ -356,7 +357,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#32a759"
+				"foreground": "#2fbac7"
 			}
 		},
 		{
@@ -375,7 +376,7 @@
 				"support.type.enum.graphql"
 			],
 			"settings": {
-				"foreground": "#ff6480"
+				"foreground": "#E9A887"
 			}
 		},
 		{
@@ -389,7 +390,7 @@
 			"name": "Storage",
 			"scope": ["storage", "constant.language"],
 			"settings": {
-				"foreground": "#11a1e4"
+				"foreground": "#1aa4e4"
 			}
 		},
 		{
@@ -523,7 +524,7 @@
 			"name": "Link Text",
 			"scope": "string.other.link",
 			"settings": {
-				"foreground": "#c553f5FD"
+				"foreground": "#10b1fe"
 			}
 		},
 		{
@@ -614,7 +615,7 @@
 			"name": "Css ID",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#ff6480"
+				"foreground": "#f36f87"
 			}
 		},
 		{
@@ -672,7 +673,7 @@
 				"variable.other.block.ruby"
 			],
 			"settings": {
-				"foreground": "#8bcdef"
+				"foreground": "#cca421"
 			}
 		},
 		{
