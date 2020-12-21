@@ -1,8 +1,8 @@
 {
     "name": "konng",
     "displayName": "KONNG",
-    "description": "feng-w.cn",
-    "publisher": "OvO",
+    "description": "konng.now.sh",
+    "publisher": "fengwei2002",
     "version": "0.6.4",
     "icon": "icon.png",
     "engines": {
@@ -12,13 +12,11 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "KONNG",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Feng Wei-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "KONNG",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Feng Wei-color-theme.json"
+        }]
     },
     "repository": {
         "type": "git",
