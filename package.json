@@ -3,7 +3,7 @@
     "displayName": "KONNG",
     "description": "konng.now.sh",
     "publisher": "OvO",
-    "version": "0.6.6",
+    "version": "0.6.7",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
