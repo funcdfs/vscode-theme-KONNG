@@ -1,19 +1,31 @@
-## KONNG
 
-blog: [feng-w.cn](https://feng-w.cn)
-### DEMO
+<p align="center">
+  <!-- marketplace version -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=OvO.konng">
+    <img alt="marketplace version" src="https://img.shields.io/visual-studio-marketplace/v/OvO.konng?style=for-the-badge">
+  </a>
+  <!-- downloads -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=OvO.konng">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/OvO.konng?style=for-the-badge">
+  </a>
+  <!-- rating -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=OvO.konng">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/OvO.konng?maxAge=86400&style=for-the-badge&labelColor=1C1E26&color=F7B3A1">
+    
+  </a>
+</p>
 
-![fib](https://raw.githubusercontent.com/fengwei2002/vscode-theme-KONNG/master/fib.png)
+## DEMO
 
-更多细节可以下载后查看
+![2021-01-30-14-40-19](https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/img/2021-01-30-14-40-19.png)
 
-### introduction
+更多主题细节可以下载后查看
 
-基于
-- bluloco Dark Theme
-- slime theme
-- panda theme
-进行优化后的一个主题
+## introduction
+
+基于 bluloco Dark Theme slime theme panda theme 融合个人审美进行优化后的一个主题
+
+## Timeline
 
 - date: 2020-07-06 终端颜色更加自然，原版的命令行体验不是很好，对每种变量颜色做了修改
 - date: 2020-07-06 TAB 页更加显眼，方便查找
@@ -34,9 +46,9 @@ blog: [feng-w.cn](https://feng-w.cn)
 - date: 2020-12-25 全局紫色调优 
 
 
-### 源码
+## KONNG
 
-[GitHub](https://github.com/fengwei2002/vscode-theme-KONNG)
-
-[知乎同步教程](https://zhuanlan.zhihu.com/p/157288300)
+- [个人博客：konng.now.sh](https://konng.now.sh)
+- [GitHub 源码](https://github.com/fengwei2002/vscode-theme-KONNG)
+- [知乎同步教程](https://zhuanlan.zhihu.com/p/157288300)
 
