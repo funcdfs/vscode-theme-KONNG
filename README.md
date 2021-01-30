@@ -48,7 +48,7 @@
 
 ## KONNG
 
-- 🍀 blog: [konng.now.sh](https://konng.now.sh)
-- [GitHub](https://github.com/fengwei2002/vscode-theme-KONNG)
+- [个人博客：konng.now.sh](https://konng.now.sh)
+- [GitHub 源码](https://github.com/fengwei2002/vscode-theme-KONNG)
 - [知乎同步教程](https://zhuanlan.zhihu.com/p/157288300)
 
