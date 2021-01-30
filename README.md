@@ -35,7 +35,7 @@
 - date: 2020-11-27 其他小细节的个人优化
 - date: 2020-11-27 背景色做了大修改 参考了 Slime theme 以及 panda theme
 - date: 2020-11-27 title bar 颜色调整为深色，更加自然
-- date: 2020-11-27 无用代码以及无用文件删除，README完善
+- date: 2020-11-27 无用代码以及无用文件删除，README 完善
 - date: 2020-12-08 编辑器布局颜色统一 `#1C1E26`  from horizon theme
 - date: 2020-12-08 光标相关全部优化 字符串亮黄色改为暖橙色
 - date: 2020-12-19 所有变量以及括号颜色变深一点点，不影响阅读体验，建议配合 `Rainbow Brackets` 插件使用
@@ -44,11 +44,10 @@
 - date: 2020-12-19 全局蓝色 #3691FF 改为 #c553f5FD
 - date: 2020-12-21 优化代码块体验
 - date: 2020-12-25 全局紫色调优 
-
+- date: 2021-01-30 完善主题介绍
 
 ## KONNG
 
 - [个人博客：konng.now.sh](https://konng.now.sh)
 - [GitHub 源码](https://github.com/fengwei2002/vscode-theme-KONNG)
 - [知乎同步教程](https://zhuanlan.zhihu.com/p/157288300)
-
