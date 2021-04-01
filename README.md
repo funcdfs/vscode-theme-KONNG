@@ -17,9 +17,14 @@
 
 ## DEMO
 
-![2021-01-30-14-40-19](https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/img/2021-01-30-14-40-19.png)
+![DEMO](https://raw.githubusercontent.com/fengwei2002/vscode-theme-KONNG/master/demo.png)
 
 更多主题细节可以下载后查看
+
+## 会发光耶( •̀ ω •́ )
+
+想法来自 https://github.com/robb0wen/synthwave-vscode
+粗略教程：[知乎](https://zhuanlan.zhihu.com/p/139446791)
 
 ## introduction
 
@@ -45,6 +50,7 @@
 - date: 2020-12-21 优化代码块体验
 - date: 2020-12-25 全局紫色调优 
 - date: 2021-01-30 完善主题介绍
+- date: 2021-04-01 添加对应的 Custom CSS and JS 源码
 
 ## KONNG
 
