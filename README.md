@@ -21,14 +21,17 @@
 
 更多主题细节可以下载后查看
 
-## 会发光耶( •̀ ω •́ )
+## ✿ 会发光耶
 
-想法来自 https://github.com/robb0wen/synthwave-vscode
-粗略教程：[知乎](https://zhuanlan.zhihu.com/p/139446791)
+bulingbuling
+
+荧光字想法来自 https://github.com/robb0wen/synthwave-vscode
+荧光部分待优化 欢迎PR
 
 ## introduction
 
-基于 bluloco Dark Theme slime theme panda theme 融合个人审美进行优化后的一个主题
+基于 ~~bluloco Dark Theme |slime theme |panda theme |atom dark theme 参考了n个主题就不一一列举了~~   
+融合个人审美进行优化后的一个主题
 
 ## Timeline
 
@@ -51,9 +54,8 @@
 - date: 2020-12-25 全局紫色调优 
 - date: 2021-01-30 完善主题介绍
 - date: 2021-04-01 添加对应的 Custom CSS and JS 源码
+- date: 2021-04-22 删除相关的知乎链接 更新新的博客链接
 
 ## KONNG
 
-- [个人博客：konng.now.sh](https://konng.now.sh)
-- [GitHub 源码](https://github.com/fengwei2002/vscode-theme-KONNG)
-- [知乎同步教程](https://zhuanlan.zhihu.com/p/157288300)
+- [Design By: konng.vercel.app](https://konng.vercel.app)
