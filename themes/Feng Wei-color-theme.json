@@ -346,7 +346,7 @@
 				"string meta.embedded.line.ruby"
 			],
 			"settings": {
-				"foreground": "#f85e5e"
+				"foreground": "#fa7493"
 			}
 		},
 		{
@@ -379,7 +379,7 @@
 				"support.type.enum.graphql"
 			],
 			"settings": {
-				"foreground": "#e1e7acda"
+				"foreground": "#e1e7acb7"
 			}
 		},
 		{
@@ -470,14 +470,14 @@
 				"markup.heading.setext"
 			],
 			"settings": {
-				"foreground": "#ed7474"
+				"foreground": "#fa7493"
 			}
 		},
 		{
 			"name": "Units",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#ed7474"
+				"foreground": "#fa7493"
 			}
 		},
 		{
@@ -500,7 +500,7 @@
 			"name": "Code",
 			"scope": "markup.raw.inline",
 			"settings": {
-				"foreground": "#ed7474"
+				"foreground": "#fa7493"
 			}
 		},
 		{
@@ -549,7 +549,7 @@
 			"name": "Deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#ff6480"
+				"foreground": "#fa7493"
 			}
 		},
 		{
@@ -598,7 +598,7 @@
 			"name": "Css ID",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#f36f87"
+				"foreground": "#fa7493"
 			}
 		},
 		{
@@ -656,8 +656,9 @@
 				"variable.other.block.ruby"
 			],
 			"settings": {
-				"foreground": "#e26258"
+				"foreground": "#fa7493"
 			}
+			//函数参数的颜色
 		},
 		{
 			"name": "Type Primitive",
