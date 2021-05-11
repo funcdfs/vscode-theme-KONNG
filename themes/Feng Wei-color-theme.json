@@ -328,7 +328,6 @@
 			],
 			"settings": {
 				"foreground": "#619df8b2",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -471,7 +470,6 @@
 				"markup.heading.setext"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#ed7474"
 			}
 		},
@@ -494,6 +492,7 @@
 			"name": "Italic",
 			"scope": ["markup.italic", "punctuation.definition.italic"],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#ff936a"
 			}
 		},
@@ -657,7 +656,7 @@
 				"variable.other.block.ruby"
 			],
 			"settings": {
-				"foreground": "#cca421"
+				"foreground": "#e26258"
 			}
 		},
 		{
