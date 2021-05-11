@@ -15,47 +15,40 @@
   </a>
 </p>
 
-## DEMO
-
 ![DEMO](https://raw.githubusercontent.com/fengwei2002/vscode-theme-KONNG/master/demo.png)
 
-更多主题细节可以下载后查看
-
-## ✿ 会发光耶
-
-bulingbuling
-
-荧光字想法来自 https://github.com/robb0wen/synthwave-vscode
-荧光部分待优化 欢迎PR
+More theme details can be downloaded and viewed
 
 ## introduction
 
-基于 ~~bluloco Dark Theme |slime theme |panda theme |atom dark theme 参考了n个主题就不一一列举了~~   
-融合个人审美进行优化后的一个主题
+Purple, Fluorescent Light, Happy
+> [Design By: konng.vercel.app](https://konng.vercel.app)
+
+## fluorescent light
+
+The idea of fluorescent characters comes from [SynthWave '84 - VS Code theme](https://github.com/robb0wen/synthwave-vscode)
+
+This Dark theme is suitable for JavaScript
 
 ## Timeline
 
-- date: 2020-07-06 终端颜色更加自然，原版的命令行体验不是很好，对每种变量颜色做了修改
-- date: 2020-07-06 TAB 页更加显眼，方便查找
-- date: 2020-07-07 鼠标指针的颜色以及选中后的颜色更加简单
-- date: 2020-07-07 统一将有些晃眼睛的蓝色改为紫罗兰色 #c553f5FD
-- date: 2020-07-07 将侧边栏的 dot 颜色进行了美化
-- date: 2020-11-27 其他小细节的个人优化
-- date: 2020-11-27 背景色做了大修改 参考了 Slime theme 以及 panda theme
-- date: 2020-11-27 title bar 颜色调整为深色，更加自然
-- date: 2020-11-27 无用代码以及无用文件删除，README 完善
-- date: 2020-12-08 编辑器布局颜色统一 `#1C1E26`  from horizon theme
-- date: 2020-12-08 光标相关全部优化 字符串亮黄色改为暖橙色
-- date: 2020-12-19 所有变量以及括号颜色变深一点点，不影响阅读体验，建议配合 `Rainbow Brackets` 插件使用
-- date: 2020-12-19 操作栏样式美化：`list.activeSelectionBackground": "#c553f5FD8a",` 前景色为超级浅绿色。选中时为透明淡紫色
-- date: 2020-12-19 把活动栏的边框颜色进行了统一，活动栏绿色和紫色有些不统一，紫色作为主色调
-- date: 2020-12-19 全局蓝色 #3691FF 改为 #c553f5FD
-- date: 2020-12-21 优化代码块体验
-- date: 2020-12-25 全局紫色调优 
-- date: 2021-01-30 完善主题介绍
-- date: 2021-04-01 添加对应的 Custom CSS and JS 源码
-- date: 2021-04-22 删除相关的知乎链接 更新新的博客链接
+- date: 2020-07-06 The terminal color is more natural, the original command line experience is not very good, and the color of each variable is modified
+- date: 2020-07-06 TAB page is more conspicuous, easy to find!
+- date: 2020-07-07 The color of the mouse pointer and the color after selection are simpler
+- date: 2020-07-07 Change some ordinary and uncomfortable blue to violet `#c553f5FD`
+- date: 2020-07-07 Beautify the sweet dot color of the sidebar
+- date: 2020-11-27 The vscode background color has been greatly revised. Refer to `Slime theme` and `panda theme`
+- date: 2020-11-27 The title bar color is adjusted to darker, more natural
+- date: 2020-11-27 Useless code and useless files deleted, complete README
+- date: 2020-12-08 Cursor related bright yellow changed to warm orange
+- date: 2020-12-19 All variables and parentheses are darker and will not affect the reading experience. It is recommended to use them with the `Rainbow brackets` plug-in.
+- date: 2020-12-19 Operation bar style beautification: `list.activeSelectionBackground": "#c553f5FD8a",` The foreground color is super light green. When selected, it is transparent lavender
+- date: 2020-12-19 The border color of the activity bar is unified. The green and purple of the activity bar are not uniform, and purple is the main color.
+- date: 2020-12-19 Global blue #3691FF changed to #c553f5FD
+- date: 2020-12-21 Optimize the code block experience
+- date: 2020-12-25 Global purple tuning
+- date: 2021-01-30 Improve the theme introduction
+- date: 2021-04-01 Add the corresponding Custom CSS and JS source code
+- date: 2021-04-22 Delete related Zhihu links Update new blog links
+- date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized，Add italic representation of keywords and comments
 
-## KONNG
-
-- [Design By: konng.vercel.app](https://konng.vercel.app)

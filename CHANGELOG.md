@@ -6,13 +6,22 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [released]
 
-- Initial release
-- date: 2020-07-06 终端颜色更加自然，原版的命令行体验不是很好，对每种变量颜色做了修改
-- date: 2020-07-06 TAB 页更加显眼，方便查找
-- date: 2020-07-07 鼠标指针的颜色以及选中后的颜色更加简单
-- date: 2020-07-07 统一将有些晃眼睛的蓝色改为紫罗兰色 #c553f5FD
-- date: 2020-07-07 将侧边栏的 dot 颜色进行了美化
-- date: 2020-11-27 其他小细节的个人优化
-- date: 2020-11-27 背景色做了大修改 参考了 Slime theme 以及 panda theme
-- date: 2020-11-27 title bar 颜色调整为深色，更加自然
-
+- date: 2020-07-06 The terminal color is more natural, the original command line experience is not very good, and the color of each variable is modified
+- date: 2020-07-06 TAB page is more conspicuous, easy to find!
+- date: 2020-07-07 The color of the mouse pointer and the color after selection are simpler
+- date: 2020-07-07 Change some ordinary and uncomfortable blue to violet `#c553f5FD`
+- date: 2020-07-07 Beautify the sweet dot color of the sidebar
+- date: 2020-11-27 The vscode background color has been greatly revised. Refer to `Slime theme` and `panda theme`
+- date: 2020-11-27 The title bar color is adjusted to darker, more natural
+- date: 2020-11-27 Useless code and useless files deleted, complete README
+- date: 2020-12-08 Cursor related bright yellow changed to warm orange
+- date: 2020-12-19 All variables and parentheses are darker and will not affect the reading experience. It is recommended to use them with the `Rainbow brackets` plug-in.
+- date: 2020-12-19 Operation bar style beautification: `list.activeSelectionBackground": "#c553f5FD8a",` The foreground color is super light green. When selected, it is transparent lavender
+- date: 2020-12-19 The border color of the activity bar is unified. The green and purple of the activity bar are not uniform, and purple is the main color.
+- date: 2020-12-19 Global blue #3691FF changed to #c553f5FD
+- date: 2020-12-21 Optimize the code block experience
+- date: 2020-12-25 Global purple tuning
+- date: 2021-01-30 Improve the theme introduction
+- date: 2021-04-01 Add the corresponding Custom CSS and JS source code
+- date: 2021-04-22 Delete related Zhihu links Update new blog links
+- date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized
