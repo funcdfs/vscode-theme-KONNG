@@ -51,4 +51,5 @@ This Dark theme is suitable for JavaScript
 - date: 2021-04-01 Add the corresponding Custom CSS and JS source code
 - date: 2021-04-22 Delete related Zhihu links Update new blog links
 - date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized，Add italic representation of keywords and comments
+- date: 2021-05-11 fix css json and html
 

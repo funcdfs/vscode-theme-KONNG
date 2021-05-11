@@ -397,28 +397,7 @@
 		// 		"foreground": "#1aa4e4"
 		// 	}
 		// },
-		{
-			"name": "Support",
-			"scope": "support.function",
-			"settings": {
-				"foreground": "#34c765"
-			}
-		},
-		{
-			"name": "Strings, Inherited Class",
-			"scope": [
-				"string",
-				"punctuation.definition.string",
-				"support.constant.property-value",
-				"string.quoted.double.shell",
-				"support.function.variable.quoted.single.elixir",
-				"storage.type.string"
-			],
-			"settings": {
-				"foreground": "#07e74bb9"
-			}
-		},
-		
+
 		{
 			"name": "Integers",
 			"scope": ["constant.numeric", "variable.other.anonymous.elixir"],
@@ -459,7 +438,7 @@
 			"name": "Tags",
 			"scope": ["entity.name.tag", "punctuation.definition.tag"],
 			"settings": {
-				"foreground": "#b635eefd"
+				"foreground": "#cd89ebcc"
 			}
 		},
 		{
@@ -492,7 +471,7 @@
 				"markup.heading.setext"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "bold",
 				"foreground": "#ed7474"
 			}
 		},
@@ -508,7 +487,7 @@
 			"scope": ["markup.bold", "punctuation.definition.bold"],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#c760e0"
+				"foreground": "#cc84df"
 			}
 		},
 		{
@@ -649,7 +628,7 @@
 				"variable.graphql"
 			],
 			"settings": {
-				"foreground": "#07e74bb9"
+				"foreground": "#fa7493"
 			}
 		},
 		{
