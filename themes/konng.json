@@ -298,7 +298,7 @@
 				"punctuation.colon.graphql"
 			],
 			"settings": {
-				"foreground": "#7a82da",
+				"foreground": "#7a82da"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#619df8b2",
+				"foreground": "#619df8b2"
 			}
 		},
 		{
@@ -345,7 +345,6 @@
 				"string source.groovy",
 				"string meta.embedded.line.ruby"
 			],
-			//console的颜色，函数参数的颜色
 			"settings": {
 				"foreground": "#fa7493c7"
 			}
@@ -390,14 +389,6 @@
 				"foreground": "#25edffb6"
 			}
 		},
-		// {
-		// 	"name": "Storage",
-		// 	"scope": ["storage", "constant.language"],
-		// 	"settings": { 类似 const 等的关键字
-		// 		"foreground": "#1aa4e4"
-		// 	}
-		// },
-
 		{
 			"name": "Integers",
 			"scope": ["constant.numeric", "variable.other.anonymous.elixir"],
@@ -659,7 +650,6 @@
 			"settings": {
 				"foreground": "#fa7493"
 			}
-			//函数参数的颜色
 		},
 		{
 			"name": "Type Primitive",

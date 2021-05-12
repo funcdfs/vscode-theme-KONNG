@@ -21,8 +21,7 @@ More theme details can be downloaded and viewed
 
 ## introduction
 
-Purple, Fluorescent Light, Happy
-> [Design By: konng.vercel.app](https://konng.vercel.app)
+Purple, Fluorescent Light, Happy ~ [Design By https://github.com/fengwei2002](https://github.com/fengwei2002)
 
 ## fluorescent light
 

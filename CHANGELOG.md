@@ -1,11 +1,5 @@
 # Change Log
 
-All notable changes to the "konng" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [released]
-
 - date: 2020-07-06 The terminal color is more natural, the original command line experience is not very good, and the color of each variable is modified
 - date: 2020-07-06 TAB page is more conspicuous, easy to find!
 - date: 2020-07-07 The color of the mouse pointer and the color after selection are simpler
@@ -24,4 +18,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - date: 2021-01-30 Improve the theme introduction
 - date: 2021-04-01 Add the corresponding Custom CSS and JS source code
 - date: 2021-04-22 Delete related Zhihu links Update new blog links
-- date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized
+- date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized，Add italic representation of keywords and comments
+- date: 2021-05-11 fix css json and html
+- date: 2021-05-12 Increase the display transparency of some variables. eg: `console`.

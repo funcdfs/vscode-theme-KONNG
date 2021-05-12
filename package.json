@@ -1,7 +1,7 @@
 {
     "name": "konng",
     "displayName": "KONNG",
-    "description": "konng.now.sh",
+    "description": "Design By https://github.com/fengwei2002",
     "publisher": "OvO",
     "version": "0.8.5",
     "icon": "icon.png",
@@ -16,7 +16,7 @@
             {
                 "label": "KONNG",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Feng Wei-color-theme.json"
+                "path": "./themes/konng.json"
             }
         ]
     },
