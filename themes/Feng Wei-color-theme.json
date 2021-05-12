@@ -345,8 +345,9 @@
 				"string source.groovy",
 				"string meta.embedded.line.ruby"
 			],
+			//console的颜色，函数参数的颜色
 			"settings": {
-				"foreground": "#fa7493"
+				"foreground": "#fa7493c7"
 			}
 		},
 		{
