@@ -29,6 +29,13 @@ The idea of fluorescent characters comes from [SynthWave '84 - VS Code theme](ht
 
 This Dark theme is suitable for JavaScript
 
+> if you want to add some css to your vscode by yourself , just try `ctrl + shift + i` .
+
+font：[hasklig](https://github.com/i-tu/Hasklig)  Source code Pro font with monospaced ligatures
+plugin: `Custom CSS and JS loader` !    
+`quokka` `bracket pair colorizer 2` `Rainbow brackets` `windows opacity`
+theme: `konng`
+
 ## Timeline
 
 - date: 2020-07-06 The terminal color is more natural, the original command line experience is not very good, and the color of each variable is modified
@@ -52,3 +59,4 @@ This Dark theme is suitable for JavaScript
 - date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized，Add italic representation of keywords and comments
 - date: 2021-05-11 fix css json and html
 - date: 2021-05-12 Increase the display transparency of some variables. eg: `console`.
+- date: 2021-05-17 Change CSS
