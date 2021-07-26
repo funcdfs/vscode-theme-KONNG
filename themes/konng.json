@@ -9,7 +9,7 @@
 		"editor.lineHighlightBackground": "#0a0a0a77",
 		"editor.selectionBackground": "#1c456f9c",
 		"editorLineNumber.foreground": "#636d83a4",
-		"editorLineNumber.activeForeground": "#e655e6c2",
+		"editorLineNumber.activeForeground": "#e655e6",
 		"button.background": "#c553f5FD",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#c553f5FD",
@@ -46,9 +46,9 @@
 		"activityBar.foreground": "#abb2bf",
 		"activityBar.activeBorder": "#c553f5FD",
 		"sideBar.background": "#1C1E26",
-		"sideBar.foreground": "#abb2bf",
+		"sideBar.foreground": "#908894",
 		"sideBarTitle.foreground": "#abb2bf",
-		"sideBarSectionHeader.background": "#1C1E26",
+		"sideBarSectionHeader.background": "#23262E",
 		"sideBarSectionHeader.foreground": "#abb2bf",
 		"editorGroup.emptyBackground": "#1C1E26",
 		"editorGroupHeader.noTabsBackground": "#1C1E26",
@@ -132,8 +132,8 @@
 		"walkThrough.embeddedEditorBackground": "#1C1E26",
 		"gitDecoration.modifiedResourceForeground": "#199ffd",
 		"gitDecoration.deletedResourceForeground": "#ce9887",
-		"gitDecoration.untrackedResourceForeground": "#37bd58",
-		"gitDecoration.addedResourceForeground": "#37bd58",
+		"gitDecoration.untrackedResourceForeground": "#7aad66b7",
+		"gitDecoration.addedResourceForeground": "#cfaf80",
 		"gitDecoration.submoduleResourceForeground": "#8c62fd",
 		"gitDecoration.ignoredResourceForeground": "#71798a",
 		"gitDecoration.conflictingResourceForeground": "#fc4a6d",
@@ -327,7 +327,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#619df8b2"
+				"foreground": "#C74DEDbb"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#25edffb6"
+				"foreground": "#e1e7acbb"
 			}
 		},
 		{
@@ -379,7 +379,7 @@
 				"support.type.enum.graphql"
 			],
 			"settings": {
-				"foreground": "#e1e7acb7"
+				"foreground": "#ffe27abb"
 			}
 		},
 		{
