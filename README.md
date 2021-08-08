@@ -60,4 +60,9 @@ theme: `konng`
 - date: 2021-05-11 fix css json and html
 - date: 2021-05-12 Increase the display transparency of some variables. eg: `console`.
 - date: 2021-05-17 Change CSS
-- date: 2021-07-26 Color conversion, visually promote the code block to the main content
+- date: 2021-07-26 Color conversion, **promote the code block to the main content** visually
+  - Beautify the dot color of the sidebar, opacity--;
+- date: 2021-08-08 
+  1. **danger color， pleasant**
+  2. select background color， opacity++;
+  3. sidebar title color,  default
