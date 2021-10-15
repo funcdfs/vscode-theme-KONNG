@@ -21,3 +21,4 @@
 - date: 2021-05-11 **Perform global tuning for JavaScript**, keyword colors are unified, functions and method names are optimized，Add italic representation of keywords and comments
 - date: 2021-05-11 fix css json and html
 - date: 2021-05-12 Increase the display transparency of some variables. eg: `console`.
+- date: 2021-10-15 add gin highlight  

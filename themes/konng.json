@@ -93,7 +93,7 @@
         "editorWidget.background": "#1C1E26",
         "editorWidget.border": "#636d83",
         "debugExceptionWidget.background": "#9c1e37",
-        "debugExceptionWidget.border": "#e34b4b",
+        "debugExceptionWidget.border": "#F88070",
         "editorMarkerNavigation.background": "#1C1E26",
         "peekView.border": "#c553f5FD",
         "peekViewEditor.background": "#1C1E26",
@@ -150,10 +150,10 @@
         "gitDecoration.ignoredResourceForeground": "#71798a",
         "gitDecoration.conflictingResourceForeground": "#fc4a6d",
 
-        "editorError.foreground": "#e34b4b",
+        "editorError.foreground": "#F88070",
         "editorWarning.foreground": "#da7a43",
         "list.warningForeground": "#da7a43",
-        "list.errorForeground": "#e34b4b",
+        "list.errorForeground": "#F88070",
         "editorInfo.foreground": "#c553f5FD",
         "editorHint.foreground": "#636d83",
         "editorGroup.border": "#181a1d",
@@ -170,7 +170,7 @@
         "editorGroup.dropBackground": "#58607499",
         "editorOverviewRuler.addedForeground": "#237236",
         "editorOverviewRuler.deletedForeground": "#8c3c3c",
-        "editorOverviewRuler.errorForeground": "#e34b4be1",
+        "editorOverviewRuler.errorForeground": "#F88070e1",
         "editorOverviewRuler.findMatchForeground": "#177849b2",
         "editorOverviewRuler.infoForeground": "#c553f5FD",
         "editorOverviewRuler.modifiedForeground": "#015f88",
@@ -178,7 +178,7 @@
         "editorOverviewRuler.warningForeground": "#da7a43",
         "editorOverviewRuler.wordHighlightForeground": "#547cac9f",
         "editorOverviewRuler.wordHighlightStrongForeground": "#973c82ad",
-        "errorForeground": "#e34b4bd8",
+        "errorForeground": "#F88070d8",
         "foreground": "#abb2bf",
         "merge.currentContentBackground": "#97665750",
         "merge.currentHeaderBackground": "#8f66588a",
@@ -203,7 +203,7 @@
         "editor.snippetFinalTabstopHighlightBorder": "#636d83",
         "editor.snippetFinalTabstopHighlightBackground": "#636d8377",
         "listFilterWidget.background": "#177849b2",
-        "listFilterWidget.noMatchesOutline": "#e34b4b",
+        "listFilterWidget.noMatchesOutline": "#F88070",
         "terminal.ansiBlack": "#7f7f7f",
         "terminal.ansiBlue": "#6699cc",
         "terminal.ansiBrightBlack": "#7f7f7f",
@@ -260,12 +260,12 @@
         {
             "name": "Named entities",
             "scope": "entity.name",
-            "settings": { "foreground": "#FAC29AE6" }
+            "settings": { "foreground": "#FAC29AE1" }
         },
         {
             "name": "Function names",
             "scope": "entity.name.function",
-            "settings": { "foreground": "#25B0BCE6" }
+            "settings": { "foreground": "#61afefb5" }
         },
         {
             "name": "Tags",
@@ -275,7 +275,7 @@
         {
             "name": "Static types",
             "scope": ["entity.name.type", "storage.type.cs"],
-            "settings": { "foreground": "#FAC29AE6" }
+            "settings": { "foreground": "#FAC29AE1" }
         },
         {
             "name": "Tag attributes",
@@ -303,8 +303,9 @@
         {
             "name": "Variable names",
             "scope": ["entity.name.variable", "variable"],
-            "settings": { "foreground": "#E95678E6" }
+            "settings": { "foreground": "#E06C75" }
         },
+
         {
             "name": "Keywords",
             "scope": "keyword",
@@ -377,19 +378,20 @@
         },
         {
             "name": "Markup link descriptions",
-            "scope": "string.other.link",
+            "scope": "string.other.link #e5c07b F88070 C678DD",
             "settings": { "foreground": "#F09483E6" }
         },
         {
             "name": "Provided (support) values",
             "scope": "support",
-            "settings": { "foreground": "#FAC29AE6" }
+            "settings": { "foreground": "#FAC29AE1" }
         },
         {
             "name": "Provided functions",
             "scope": "support.function",
-            "settings": { "foreground": "#25B0BCE6" }
+            "settings": { "foreground": "#61afefb5" }
         },
+
         {
             "name": "Provieded variables",
             "scope": "support.variable",
@@ -408,7 +410,7 @@
         {
             "name": "Language variables",
             "scope": ["variable.language"],
-            "settings": { "foreground": "#FAC29AE6" }
+            "settings": { "foreground": "#FAC29AE1" }
         },
         {
             "name": "Parameters",
