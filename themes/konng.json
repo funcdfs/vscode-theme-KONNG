@@ -4,8 +4,6 @@
     "colors": {
         "editor.background": "#1C1E26",
 
-        "editorCursor.background": "#FFF",
-
         "editor.foreground": "#abb2bf",
         "editor.lineHighlightBackground": "#0a0a0a77",
         "editorLineNumber.foreground": "#636d83a4",
@@ -18,7 +16,7 @@
         "dropdown.border": "#3d434f",
         "dropdown.foreground": "#abb2bf",
 
-        "editorCursor.foreground": "#7adb25",
+        "editorCursor.foreground": "#FFF",
         "editor.selectionBackground": "#be84bf40",
         "editor.selectionHighlightBackground": "#4F435580",
         "editor.wordHighlightBackground": "#4F4355",
