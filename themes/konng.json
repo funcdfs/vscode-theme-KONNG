@@ -307,7 +307,7 @@
         {
             "name": "Keywords",
             "scope": "keyword",
-            "settings": { "foreground": "#B877DBE6", "fontStyle": "bold" }
+            "settings": { "foreground": "#B877DBE6"}
         },
         {
             "name": "Operators",

@@ -31,6 +31,6 @@ This Dark theme is suitable for JavaScript
 
 > if you want to add some css to your vscode by yourself , just try `ctrl + shift + i` .
 
-font：[hasklig](https://github.com/i-tu/Hasklig)  Source code Pro font with monospaced ligatures  
-plugin: `Custom CSS and JS loader` !    
-theme: `konng`
+- font：[hasklig](https://github.com/i-tu/Hasklig)  Source code Pro font with monospaced ligatures or [Hack](https://github.com/source-foundry/Hack)  
+- plugin: `Custom CSS and JS loader` !     
+- theme: `konng`   
