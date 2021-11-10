@@ -3,7 +3,7 @@
     "displayName": "KONNG",
     "description": "Design By https://github.com/fengwei2002",
     "publisher": "OvO",
-    "version": "2.0.2",
+    "version": "3.0.0",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
