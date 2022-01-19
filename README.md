@@ -21,7 +21,7 @@ More theme details can be downloaded and viewed
 
 ## introduction
 
-Purple, Fluorescent Light, Happy ~ [Design By https://github.com/fengwei2002](https://github.com/fengwei2002)
+Purple, Fluorescent Light, js/golang/cpp friendly [Design By https://github.com/fengwei2002](https://github.com/fengwei2002)
 
 ## fluorescent light
 

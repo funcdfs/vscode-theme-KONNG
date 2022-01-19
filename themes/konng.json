@@ -212,9 +212,9 @@
         "terminal.ansiBrightRed": "#e15a60",
         "terminal.ansiBrightWhite": "#b4b4b4",
         "terminal.ansiBrightYellow": "#fac863",
-        "terminal.ansiCyan": "#dd1edd",
-        "terminal.ansiGreen": "#42b983",
-        "terminal.ansiMagenta": "#c594c5",
+        "terminal.ansiCyan": "#008B8B",
+        "terminal.ansiGreen": "#287351",
+        "terminal.ansiMagenta": "#b57f99",
         "terminal.ansiRed": "#e15a60",
         "terminal.ansiWhite": "#b4b4b4",
         "terminal.ansiYellow": "#fac863",
@@ -307,7 +307,7 @@
         {
             "name": "Keywords",
             "scope": "keyword",
-            "settings": { "foreground": "#B877DBE6"}
+            "settings": { "foreground": "#B877DBE6" }
         },
         {
             "name": "Operators",
