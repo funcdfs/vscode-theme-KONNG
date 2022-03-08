@@ -263,7 +263,7 @@
         {
             "name": "Function names",
             "scope": "entity.name.function",
-            "settings": { "foreground": "#2098d4cc" }
+            "settings": { "foreground": "#2098d4" }
         },
         {
             "name": "Tags",
@@ -387,7 +387,7 @@
         {
             "name": "Provided functions",
             "scope": "support.function",
-            "settings": { "foreground": "#25B0BC" }
+            "settings": { "foreground": "#00b695cc" }
         },
 
         {
