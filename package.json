@@ -2,8 +2,8 @@
     "name": "konng",
     "displayName": "KONNG",
     "description": "Design By https://github.com/fengwei2002",
-    "publisher": "OvO",
-    "version": "4.0.0",
+    "publisher": "KONNG",
+    "version": "4.0.2",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
