@@ -301,7 +301,7 @@
         {
             "name": "Variable names",
             "scope": ["entity.name.variable", "variable"],
-            "settings": { "foreground": "#e48d96" }
+            "settings": { "foreground": "#e48d96d9" }
         },
 
         {
