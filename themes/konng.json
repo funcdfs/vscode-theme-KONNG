@@ -301,7 +301,7 @@
         {
             "name": "Variable names",
             "scope": ["entity.name.variable", "variable"],
-            "settings": { "foreground": "#E06C78" }
+            "settings": { "foreground": "#e48d96" }
         },
 
         {
@@ -393,7 +393,7 @@
         {
             "name": "Provieded variables",
             "scope": "support.variable",
-            "settings": { "foreground": "#E95678cc" }
+            "settings": { "foreground": "#00b695" }
         },
         {
             "name": "Object/JSON property names",

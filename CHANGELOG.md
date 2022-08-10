@@ -24,3 +24,4 @@
 - date: 2021-10-15 add gin highlight  
 - date: 2022-01-19 fix terminal ansiGreen color, darker, more comfortable
 - date: 2022-03-06 颜色调整
+- date: 2022-08-10 修改 js 中的变量名的颜色和函数名的颜色
