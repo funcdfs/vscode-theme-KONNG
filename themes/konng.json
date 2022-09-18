@@ -5,8 +5,8 @@
         "editor.background": "#1C1E26",
         "editor.foreground": "#abb2bf",
         "editor.lineHighlightBackground": "#22232E",
-        "editorLineNumber.foreground": "#636d83a4",
-        "editorLineNumber.activeForeground": "#e655e6",
+        "editorLineNumber.foreground": "#4B6479",
+        "editorLineNumber.activeForeground": "#c5e4fd",
         "button.background": "#b2aaca96",
         "button.foreground": "#ffffff",
         "button.hoverBackground": "#b2aaca96",
@@ -307,7 +307,7 @@
         {
             "name": "Keywords",
             "scope": "keyword",
-            "settings": { "foreground": "#B877DB" }
+            "settings": { "foreground": "#C789D6" }
         },
         {
             "name": "Operators",
@@ -322,7 +322,7 @@
                 "keyword.operator.logical",
                 "keyword.operator.delete"
             ],
-            "settings": { "foreground": "#B877DBE6" }
+            "settings": { "foreground": "#C789D6" }
         },
         {
             "name": "Units",
@@ -342,7 +342,7 @@
         {
             "name": "Markup bold",
             "scope": "markup.bold",
-            "settings": { "foreground": "#B877DBE6", "fontStyle": "bold" }
+            "settings": { "foreground": "#C789D6", "fontStyle": "bold" }
         },
         {
             "name": "Markup italics",
@@ -362,7 +362,7 @@
         {
             "name": "Storage keywords",
             "scope": "storage",
-            "settings": { "foreground": "#B877DBE6", "fontStyle": "normal" }
+            "settings": { "foreground": "#C789D6", "fontStyle": "normal" }
         },
         {
             "name": "Strings",
@@ -377,7 +377,7 @@
         {
             "name": "Markup link descriptions",
             "scope": "string.other.link",
-            "settings": { "foreground": "#b877Dbe6" }
+            "settings": { "foreground": "#C789D6" }
         },
         {
             "name": "Provided (support) values",
@@ -433,12 +433,12 @@
         {
             "name": "Template expressions",
             "scope": "punctuation.definition.template-expression",
-            "settings": { "foreground": "#B877DBE6" }
+            "settings": { "foreground": "#C789D6" }
         },
         {
             "name": "Embedded section punctuation",
             "scope": "punctuation.section.embedded",
-            "settings": { "foreground": "#B877DBE6" }
+            "settings": { "foreground": "#C789D6" }
         },
         {
             "name": "Markup list punctuation",
