@@ -1,3 +1,4 @@
+
 > When using this theme, you can turn off the colored brackets that are enabled by default in vscode 
 #### **It's ugly by default**
 
@@ -37,3 +38,15 @@ The idea of fluorescent characters comes from [SynthWave '84 - VS Code theme](ht
 - font：[hasklig](https://github.com/i-tu/Hasklig)  Source code Pro font with monospaced ligatures 
   - or [Go Mono](https://go.dev/blog/go-fonts)  
 - plugin: `Custom CSS and JS loader` (if you need fluorescent light)   
+
+---
+
+> upd: the jetbrains theme file of KONNG is [here](https://github.com/fengwei2002/colorSchemeTool/tree/master/intellijThemes)
+
+usage method :
+
+- In your IDE, go to Preferences / Settings | Editor | Color Scheme.
+- Click on the Show Scheme Actions gear icon and select Import Scheme....
+- Choose the konng.icls file in [here](https://github.com/fengwei2002/colorSchemeTool/tree/master/intellijThemes)
+- then the editor part is finshed, the ui part you can use [nightfall](https://plugins.jetbrains.com/plugin/16142-nightfall-theme)
+---
